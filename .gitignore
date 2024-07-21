@@ -1,0 +1,41 @@
+## Ignore Visual Studio temporary files, build results, and
+## folder-based project configuration
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+## Ignore Visual Studio 2019 config folder
+.vs/
+
+## Ignore packages folder
+packages/
+
+## Ignore user-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vscode/
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/extensions.json
+.vscode/*.code-snippets
+
+## Ignore project-related temporary files
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Ignore Rider-specific files
+.idea/
+*.sln.iml
